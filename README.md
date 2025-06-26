@@ -132,3 +132,11 @@ This project is licensed under the [MIT License](LICENSE).
 If you like the project, feel free to ⭐ star the repo!  
 For suggestions or contributions, open an issue or pull request at  
 👉 [https://github.com/sharad-kamble/spring-security-role-based](https://github.com/sharad-kamble/spring-security-role-based)
+
+
+---
+
+## 📺 Reference Video
+
+Watch the full Spring Security Role-Based Authentication tutorial:  
+🔗 [https://www.youtube.com/watch?v=Ghz_yuFGEXY&ab_channel=AMITIT%28AVSOFT%29](https://www.youtube.com/watch?v=Ghz_yuFGEXY&ab_channel=AMITIT%28AVSOFT%29)
